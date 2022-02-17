@@ -1,0 +1,24 @@
+/////////////////////////////////////////////////////////
+// PKS Project :
+//  ToDo:
+
+- Wczytywanie worldfile z modelami, z mapa itd.
+- Ulepszenie modeli :
+	- Wczytywanie normalnych (modele)
+	- blending
+	- masking
+	- kola, drzwi - elementy ruchome modeli
+	- zrobienie tapicerki i wnetrza pojazdu
+- Zwiekszenie liczby modeli
+- Rozbudowanie swiata :
+	- przystanki, domy, budynki
+- Rozroznicowanie swiata na ~dzien noc :
+	- Efekty swietlne
+- Kolizje miedzy modelami
+- Rozbudowanie fizyki swiata
+- Proste pierwsze dzwieki
+- Ruch uliczny
+- Piesi
+- Rozbudowanie fabuly gry
+- Informacje o autobusach 
+- Credits
